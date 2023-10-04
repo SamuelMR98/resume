@@ -9,7 +9,8 @@ Apt. 125                                  (801)50037
 Provo, UT 84604                           
 -------------------     ----------------------------
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [https://www.linkedin.com/in/samuel-mera-ricardo/](https://www.linkedin.com/in/samuel-mera-ricardo/)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) [https://github.com/SamuelMR98](https://github.com/SamuelMR98)
 
 Education
 ---------
