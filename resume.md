@@ -1,11 +1,13 @@
-Johnny Coder
+Samuel Mera Ricardo
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+98 W Cougar Blvd     samuel.mera.ricardo@example.com
+Apt. 125                                  (801)50037
+Provo, UT 84604                           
 -------------------     ----------------------------
+
+<ion-icon name="logo-linkedin"></ion-icon>
 
 Education
 ---------
