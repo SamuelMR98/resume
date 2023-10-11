@@ -4,7 +4,7 @@ Samuel Mera Ricardo
 -------------------     ----------------------------
 98 W Cougar Blvd     samuel.mera.ricardo@example.com
 
-Apt. 125                                  (801)50037
+Apt. 125                                 (801)500-37
 
 Provo, UT 84604                           
 -------------------     ----------------------------
@@ -16,22 +16,21 @@ Provo, UT 84604
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+January 2017 - December 2024
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+**BSc, Computer Science**
+*Brigham Young University*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+    Minor: Information Technology
 
-    *Minor: Awesomeology*
+    - Member of BYU ACM Club, BYU SHPE Club and BYU Competitive Programming Club
+    - Relevant Coursework: Humuan Computer Interaction, Systems Programming, Web Programming, Algorithm Design & Analysis
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**AV Computer Programmer**
+*BYU Office of Information Technology*
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
