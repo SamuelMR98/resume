@@ -2,11 +2,12 @@ Samuel Mera Ricardo
 ============
 
 -------------------     ----------------------------
-98 W Cougar Blvd     samuel.mera.ricardo@example.com
-
-Apt. 125                                 (801)-xxx-xxx
-
+98 W Cougar Blvd    
+Apt. 125                                
 Provo, UT 84604                           
+
+samuel.mera.ricardo@example.com
+(801)-xxx-xxx
 -------------------     ----------------------------
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [https://www.linkedin.com/in/samuel-mera-ricardo/](https://www.linkedin.com/in/samuel-mera-ricardo/)
