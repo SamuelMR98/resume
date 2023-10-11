@@ -4,7 +4,7 @@ Samuel Mera Ricardo
 -------------------     ----------------------------
 98 W Cougar Blvd     samuel.mera.ricardo@example.com
 
-Apt. 125                                 (801)500-37
+Apt. 125                                 (801)-xxx-xxx
 
 Provo, UT 84604                           
 -------------------     ----------------------------
@@ -19,68 +19,46 @@ Education
 January 2017 - December 2024
 
 **BSc, Computer Science**
+
 *Brigham Young University*
 
     Minor: Information Technology
 
     - Member of BYU ACM Club, BYU SHPE Club and BYU Competitive Programming Club
-    - Relevant Coursework: Humuan Computer Interaction, Systems Programming, Web Programming, Algorithm Design & Analysis
+    - Relevant Coursework: Humuan Computer Interaction, Data Structures and Algorithms, Systems Programming, Web Programming, Algorithm Design & Analysis
 
 Experience
 ----------
 
 **AV Computer Programmer**
+
 *BYU Office of Information Technology*
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Assisted in the development and testing of AV systems and software. Colaborating with senior developers and AV Eingeniers to troubleshoot and resolve issues in AV progects. Gained hands-on experience with AV hardware and equipment
 
-* First item
+* [Microsoft Teams Help Request Bot](https://github.com/byuoitav/teams-help-request): Developed a Microsoft Teams bot that connects with the internal AV api, and generates a message to alert the AV support team when assistance is required with an AV system around campus.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* [AV Monitoring System](https://github.com/byuoitav/smee): Developed a Monitoring System web-app that displays data of the different AV systems around campus, along with the state of the different AV devices connected to it.
 
-**That Other Job You Had**
+* [AT-UHD-SW-52ED Microservice](https://github.com/byuoitav/atlona/tree/main/AT-UHD-SW-52ED): Developed a microservice for the AT-UHD-SW-52ED Video Switcher that allows users to change imputs and adjust volume using network protocols.
 
-Also with a short description.
+* [Clever Touch Microservice](https://github.com/byuoitav/clevertouch-control): Developed a microservice to control the Clever Touch interactive screen using network protocols.
+
+* [Touch Panel UI Microservice Update](https://github.com/byuoitav/touchpanel-ui-microservice): Updated the UI microservice Angular version, from v.4.0 to v.16.0
 
 Technical Experience
 --------------------
+Programming Languages & Tools
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+- Proficient: Go, C++, Python, TypeScript, HTML, CSS, Angular
+- Moderate: Java, React, Docker, MySQL
+- Begginner: Vue, AWS
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Skills:
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+- Familiarity with AV protocols and standards
+- Knowledge of AV hardware and systems integration
+- Solid understanding of software lige cycle and version control (git)
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
