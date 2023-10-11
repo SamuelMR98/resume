@@ -18,9 +18,9 @@ Education
 
 January 2017 - December 2024
 
-**BSc, Computer Science**
+**BSc, Computer Science** 
 
-*Brigham Young University*
+*Brigham Young University* (Provo, UT)
 
     Minor: Information Technology
 
@@ -30,9 +30,11 @@ January 2017 - December 2024
 Experience
 ----------
 
-**AV Computer Programmer**
+May 2021 - Present
 
-*BYU Office of Information Technology*
+**AV Student Computer Programmer**
+
+*BYU Office of Information Technology* (Provo, UT)
 
 Assisted in the development and testing of AV systems and software. Colaborating with senior developers and AV Eingeniers to troubleshoot and resolve issues in AV progects. Gained hands-on experience with AV hardware and equipment
 
@@ -48,7 +50,7 @@ Assisted in the development and testing of AV systems and software. Colaborating
 
 Technical Experience
 --------------------
-Programming Languages & Tools
+Programming Languages & Tools:
 
 - Proficient: Go, C++, Python, TypeScript, HTML, CSS, Angular
 - Moderate: Java, React, Docker, MySQL
@@ -62,15 +64,24 @@ Skills:
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-Extra Section, Call it Whatever You Want
+Volunteer Experience
 ----------------------------------------
+BYU ACM Social Media Officer:
 
-* Human Languages:
+*September 2021 - December 2021*
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+- Increaced social media engagement by 50% on the organization's Instagram and Discord.
 
-* Random tidbit
+BYU ACM Events Officer:
 
-* Other sort of impressive-sounding thing you did
+*June 2020 - September 2021*
+
+- Planned Club activities such as talks, panels and recruitment activities.
+- Brought back the Y-Hack event, a two-day hackaton that allowd students to showcase their programming and design habilities.
+- 
+
+Achievements & Interests
+----------------------------------------
+- Fluent in English and Spanish
+- Love videogames and fantasy books
+- Enjoy electronics and automatization projects
