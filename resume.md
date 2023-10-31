@@ -41,7 +41,7 @@ Led the development and end-to-end testing of AV systems and software, ensuring 
 
 * [Microsoft Teams Help Request Bot](https://github.com/byuoitav/teams-help-request): Developed a Microsoft Teams bot that connects with the internal AV API and generates a message to alert the AV support team when assistance is required with an AV system around campus.
 
-* [AV Monitoring System](https://github.com/byuoitav/smee): Developed a Monitoring System web app that displays data on the different AV systems around campus and the state of the other AV devices connected to it.
+* [AV Monitoring System](https://github.com/byuoitav/smee): Developed a Monitoring System web app that displays data on the different AV systems around campus and the state of the other AV devices connected.
 
 * [AT-UHD-SW-52ED Microservice](https://github.com/byuoitav/atlona/tree/main/AT-UHD-SW-52ED): Developed a microservice for the AT-UHD-SW-52ED Video Switcher that allows users to change inputs and adjust volume using network protocols.
 
@@ -57,7 +57,7 @@ Programming Languages & Tools:
 
 - Proficient: Go, C++, Python, TypeScript, HTML, CSS, Angular
 - Moderate: Java, React, Docker, MySQL
-- Begginner: Vue, AWS
+- Beginner: Vue, AWS
 
 Skills:
 
@@ -85,7 +85,7 @@ Achievements & Interests
 ------------------------
 
 - Fluent in English, Spanish and Portuguese
-- Love League of Legends and the Lord of the Rings book and movie trilogy.
+- I love League of Legends and the Lord of the Rings book and movie trilogy.
 - Enjoy electronics and automatization projects
 
 [ref]: https://github.com/githubuser/superlongprojectname
