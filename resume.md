@@ -45,7 +45,7 @@ Led the development and end-to-end testing of AV systems and software, ensuring 
 
 * [AT-UHD-SW-52ED Microservice](https://github.com/byuoitav/atlona/tree/main/AT-UHD-SW-52ED): Developed a microservice for the AT-UHD-SW-52ED Video Switcher that allows users to change inputs and adjust volume using network protocols.
 
-* [Clever Touch Microservice](https://github.com/byuoitav/clevertouch-control): Updated the UI microservice Angular version from v.4.0 to v.16.0!.
+* [Clever Touch Microservice](https://github.com/byuoitav/clevertouch-control): Developed a microservice to control the Clever Touch interactive screen using network protocols.
 
   
 * [Touch Panel UI Microservice Update](https://github.com/byuoitav/touchpanel-ui-microservice): Updated the UI microservice Angular version, from v.4.0 to v.16.0
