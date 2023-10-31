@@ -17,7 +17,7 @@ samuel.mera.ricardo@example.com
 Education
 ---------
 
-January 2017 - December 2024
+January 2017 - April 2025 (Expected)
 
 **BS, Computer Science**
 
@@ -39,13 +39,13 @@ May 2021 - Present
 Led the development and end-to-end testing of AV systems and software, ensuring optimal performance and functionality. Collaborated closely with senior developers and AV Engineers to troubleshoot and swiftly resolve complex issues in AV projects.
 
 
-* [Microsoft Teams Help Request Bot](https://github.com/byuoitav/teams-help-request): Developed a Microsoft Teams bot that connects with the internal AV API and generates a custom message to alert the AV support team when assistance is required with an AV system around campus.
+* [Microsoft Teams Help Request Bot](https://github.com/byuoitav/teams-help-request): Implemented a Microsoft Teams bot that connects with the internal AV API and generates a custom message to alert the AV support team when assistance is required with an AV system around campus.
 
 * [AV Monitoring System](https://github.com/byuoitav/smee): Developed a Monitoring System web app that displays data on the different AV systems around campus and the state of the other AV devices connected.
 
-* [AT-UHD-SW-52ED Microservice](https://github.com/byuoitav/atlona/tree/main/AT-UHD-SW-52ED): Developed a microservice for the AT-UHD-SW-52ED Video Switcher that allows users to change inputs and adjust volume using network protocols.
+* [AT-UHD-SW-52ED Microservice](https://github.com/byuoitav/atlona/tree/main/AT-UHD-SW-52ED): Built a microservice for the AT-UHD-SW-52ED Video Switcher that allows users to change inputs and adjust volume using network protocols.
 
-* [Clever Touch Microservice](https://github.com/byuoitav/clevertouch-control): Developed a microservice to control the Clever Touch interactive screen using network protocols.
+* [Clever Touch Microservice](https://github.com/byuoitav/clevertouch-control): Built a microservice to control the Clever Touch interactive screen using network protocols.
 
   
 * [Touch Panel UI Microservice Update](https://github.com/byuoitav/touchpanel-ui-microservice): Updated the UI microservice Angular version, from v.4.0 to v.16.0
@@ -64,6 +64,7 @@ Skills:
 - Familiarity with AV protocols and standards
 - Knowledge of AV hardware and systems integration
 - Solid understanding of software life cycle and version control (git)
+- Familiarity with unit testing, functional testing, and integration testing
 - Experience with design software (Figma, Adobe Illustrator, Adobe Photoshop)
 
 Volunteer Experience
@@ -86,7 +87,11 @@ Achievements & Interests
 ------------------------
 
 - Fluent in English, Spanish and Portuguese
-- I love League of Legends and the Lord of the Rings book and movie trilogy.
-- Enjoy electronics and automatization projects
+- Love League of Legends; my favorite and main champion is Blitzcrank
+- Love epic fantasy; my favorite book series and movie trilogy is The Lord of the Rings
+- Black belt in Lima Lama, a Polynesian martial art
+- Enjoy playing the piano and the guitar
+- Enjoy electronics and automatization projects using Arduino and Raspberry Pi
+
 
 [ref]: https://github.com/githubuser/superlongprojectname
