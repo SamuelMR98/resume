@@ -19,7 +19,7 @@ Education
 
 January 2017 - December 2024
 
-**BSc, Computer Science**
+**BS, Computer Science**
 
 *Brigham Young University* (Provo, UT)
 
@@ -39,7 +39,7 @@ May 2021 - Present
 Led the development and end-to-end testing of AV systems and software, ensuring optimal performance and functionality. Collaborated closely with senior developers and AV Engineers to troubleshoot and swiftly resolve complex issues in AV projects.
 
 
-* [Microsoft Teams Help Request Bot](https://github.com/byuoitav/teams-help-request): Developed a Microsoft Teams bot that connects with the internal AV API and generates a message to alert the AV support team when assistance is required with an AV system around campus.
+* [Microsoft Teams Help Request Bot](https://github.com/byuoitav/teams-help-request): Developed a Microsoft Teams bot that connects with the internal AV API and generates a custom message to alert the AV support team when assistance is required with an AV system around campus.
 
 * [AV Monitoring System](https://github.com/byuoitav/smee): Developed a Monitoring System web app that displays data on the different AV systems around campus and the state of the other AV devices connected.
 
@@ -63,7 +63,8 @@ Skills:
 
 - Familiarity with AV protocols and standards
 - Knowledge of AV hardware and systems integration
-- SSolid understanding of software life cycle and version control (git)
+- Solid understanding of software life cycle and version control (git)
+- Experience with design software (Figma, Adobe Illustrator, Adobe Photoshop)
 
 Volunteer Experience
 --------------------
