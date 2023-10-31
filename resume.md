@@ -84,8 +84,8 @@ BYU ACM Events Officer:
 Achievements & Interests
 ------------------------
 
-- Fluent in English and Spanish
-- Love (add an actual videogame name) and (name the fantasy book) books
+- Fluent in English, Spanish and Portuguese
+- Love League of Legends and the Lord of the Rings book and movie trilogy.
 - Enjoy electronics and automatization projects
 
 [ref]: https://github.com/githubuser/superlongprojectname
