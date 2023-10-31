@@ -25,7 +25,7 @@ January 2017 - December 2024
 
     Minor: Information Technology
 
-    - Relevant Coursework: Humuan Computer Interaction, Data Structures and Algorithms, Systems Programming, Web Programming, Algorithm Design & Analysis
+    - Relevant Coursework: Human-Computer Interaction, Data Structures and Algorithms, Systems Programming, Web Programming, Algorithm Design and Analysis.
 
 Experience
 ----------
@@ -36,12 +36,18 @@ May 2021 - Present
 
 *BYU Office of Information Technology* (Provo, UT)
 
-Led the development and end-to-end testing of AV systems and software, ensuring optimal performance and functionality. Collaborated closely with senior developers and AV Eingeniers to troubleshoot and swiftkly resolve complex issues in AV projects. 
+Led the development and end-to-end testing of AV systems and software, ensuring optimal performance and functionality. Collaborated closely with senior developers and AV Engineers to troubleshoot and swiftly resolve complex issues in AV projects.
 
-* [Microsoft Teams Help Request Bot](https://github.com/byuoitav/teams-help-request): Developed a Microsoft Teams bot that connects with the internal AV api, and generates a message to alert the AV support team when assistance is required with an AV system around campus.
-* [AV Monitoring System](https://github.com/byuoitav/smee): Developed a Monitoring System web-app that displays data of the different AV systems around campus, along with the state of the different AV devices connected to it.
-* [AT-UHD-SW-52ED Microservice](https://github.com/byuoitav/atlona/tree/main/AT-UHD-SW-52ED): Developed a microservice for the AT-UHD-SW-52ED Video Switcher that allows users to change imputs and adjust volume using network protocols.
-* [Clever Touch Microservice](https://github.com/byuoitav/clevertouch-control): Developed a microservice to control the Clever Touch interactive screen using network protocols.
+
+* [Microsoft Teams Help Request Bot](https://github.com/byuoitav/teams-help-request): Developed a Microsoft Teams bot that connects with the internal AV API and generates a message to alert the AV support team when assistance is required with an AV system around campus.
+
+* [AV Monitoring System](https://github.com/byuoitav/smee): Developed a Monitoring System web app that displays data on the different AV systems around campus and the state of the other AV devices connected to it.
+
+* [AT-UHD-SW-52ED Microservice](https://github.com/byuoitav/atlona/tree/main/AT-UHD-SW-52ED): Developed a microservice for the AT-UHD-SW-52ED Video Switcher that allows users to change inputs and adjust volume using network protocols.
+
+* [Clever Touch Microservice](https://github.com/byuoitav/clevertouch-control): Updated the UI microservice Angular version from v.4.0 to v.16.0!.
+
+  
 * [Touch Panel UI Microservice Update](https://github.com/byuoitav/touchpanel-ui-microservice): Updated the UI microservice Angular version, from v.4.0 to v.16.0
 
 Technical Experience
@@ -57,7 +63,7 @@ Skills:
 
 - Familiarity with AV protocols and standards
 - Knowledge of AV hardware and systems integration
-- Solid understanding of software lige cycle and version control (git)
+- SSolid understanding of software life cycle and version control (git)
 
 Volunteer Experience
 --------------------
@@ -72,8 +78,8 @@ BYU ACM Events Officer:
 
 *June 2020 - September 2021*
 
-- Planned strategic activities such as engaging talks, educational panels and recruitment activities.
-- Revived the Y-Hack event, a two-day hackaton that allowed students to showcase their programming and design habilities.
+- Planned strategic activities such as engaging talks, educational panels, and recruitment activities.
+- Revived the Y-Hack event, a two-day hackathon that allowed students to showcase their programming and design abilities.
 
 Achievements & Interests
 ------------------------
